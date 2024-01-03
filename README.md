@@ -1,9 +1,8 @@
 # PhD Studnet
 
-#### Technical Skills: Python
 
 ## Education
-- Ph.D., Astronomy | National Tsing Hua University, Hsinchu (__)								       		
+- Ph.D., Astronomy | National Tsing Hua University, Hsinchu (_Ongoing_)								       		
 - M.Sc., Physics	| Sant Longowal Institute of Engineering and Technology, Longowal (_2023_)	 			        		
 - B.Sc., Physics | University College, Thiruvananthapuram (_2021_)
 
@@ -11,12 +10,10 @@
 **PhD student at NTHU**
 - Working under Prof. Chang, Hsiang-Kuang
 
+
 ## Projects
-### MeV Pulsars
+### Spectral Analysis of Swift-BAT Pulsars
 HEASoft, XSpec
-
-
-
 ![Pulsar](/assets/img/)
 
 
