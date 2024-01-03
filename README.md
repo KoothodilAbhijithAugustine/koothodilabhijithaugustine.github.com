@@ -14,7 +14,7 @@
 ## Projects
 ### Spectral Analysis of Swift-BAT Pulsars
 HEASoft, XSpec
-![Pulsar](/assets/img/)
+![Pulsar](/assets/img/pulsar.jpeg)
 
 
 
