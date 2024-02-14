@@ -10,11 +10,12 @@
 
 ## Work Experience
 **PhD student at NTHU**
-- Working under Prof. Chang, Hsiang-Kuang
+- Working for a PhD under the supervision of Prof. Chang, Hsiang-Kuang
 
 
 ## Projects
-### Spectral Analysis of Swift-BAT Pulsars
-HEASoft, XSpec
+**Spectral Analysis of Swift-BAT Pulsars**
+XSpec, Pandas
 
-![Pulsar](/assets/img/pulsar.jpeg)
+**Minimum Detectable Polarization (MDP) of GRBs using a 6U CubeSat model operating in 30 keV to 2000 keV range.**
+MEGAlib
