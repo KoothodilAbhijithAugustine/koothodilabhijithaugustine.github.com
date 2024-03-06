@@ -6,9 +6,9 @@
 
 ## Projects
 **Spectral Analysis of Swift-BAT Pulsars**
-- XSpec, Pandas
+- XSpec
 
-**Minimum Detectable Polarization (MDP) of GRBs using a 6U CubeSat model operating in 30 keV to 2000 keV range.**
+**Minimum Detectable Polarization (MDP) of GRBs using MEGAlib.**
 - MEGAlib
 
 ## Socials
