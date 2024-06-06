@@ -1,5 +1,4 @@
 title: Koothodil Abhijith Augustine
-logo: /assets/img/logo.png
 cv: /assets/CV.pdf
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: minima
