@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  <header>
+    <img src="{{ site.logo }}" alt="Logo" class="logo">
+    <h1>{{ site.title }}</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="{{ "/" | relative_url }}">Home</a></li>
+      <li><a href="{{ "/projects/" | relative_url }}">Projects</a></li>
+      <li><a href="{{ "/cv/" | relative_url }}">CV</a></li>
+      <li><a href="{{ "/contact/" | relative_url }}">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>&copy; {{ "now" | date: "%Y" }} Koothodil Abhijith Augustine. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
