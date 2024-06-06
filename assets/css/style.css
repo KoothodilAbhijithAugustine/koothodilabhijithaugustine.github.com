@@ -1,11 +1,11 @@
-.logo {
+/* .logo {
   width: 100px;
   height: auto;
   border-radius: 50%;
   position: fixed;
   top: 10px;
   right: 10px;
-}
+} */
 
 header, nav, main, footer {
   text-align: center;
