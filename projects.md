@@ -3,11 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+**1. Spectral Analysis of Swift-BAT Pulsars**
 
-## Projects
-**Spectral Analysis of Swift-BAT Pulsars**
-- XSpec
+**2. Minimum Detectable Polarization (MDP) of GRBs using MEGAlib.**
 
-**Minimum Detectable Polarization (MDP) of GRBs using MEGAlib.**
-- MEGAlib
 
