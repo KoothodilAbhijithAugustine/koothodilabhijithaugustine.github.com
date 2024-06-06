@@ -21,12 +21,9 @@
 title: Koothodil Abijith Augustine
 email: abhijithaugustine007 [@] gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am doing a PhD in Astronomy from National Tsing Hua University (NTHU), Hsinchu, Taiwan. 
-  My advisor is Prof. Hsiang-Kuang Chang. I am doing a long term study of The Crab using Swift-BAT. 
-  I am also working on the simulation of minimum detectable polarization, of custom made CubeSats models by our group, using MEGAlib.
-  # Write an awesome description for your new site here. You can edit this
-  # line in _config.yml. It will appear in your document head meta (for
-  # Google search results) and in your feed.xml site description.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
