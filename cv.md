@@ -1,10 +1,9 @@
 ---
 layout: page
-title: CV
+title: Education
 permalink: /cv/
 ---
 
-## Education
 - Ph.D., Astronomy | National Tsing Hua University, Hsinchu (_Ongoing_)								       		
 - M.Sc., Physics | Sant Longowal Institute of Engineering and Technology, Longowal (_2023_)	 			        		
 - B.Sc., Physics | University College, Thiruvananthapuram (_2021_)
