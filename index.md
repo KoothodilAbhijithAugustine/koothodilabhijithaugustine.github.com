@@ -5,7 +5,7 @@ title: Home
 
 ![Profile Image](/assets/img/profile_pic/2024.jpg){: .profile-image}
 
-Welcome to my (**Koothodil Abhijith Augustine**) personal website.
+Welcome to my (**Koothodil Abhijith Augustine's**) personal website.
 
 
 I am doing a PhD in Astronomy from National Tsing Hua University (NTHU), Hsinchu, Taiwan.
