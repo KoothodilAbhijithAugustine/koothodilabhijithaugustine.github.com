@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Contact
+title: Socials
 permalink: /contact/
 ---
 
-## Socials
 - [LinkedIn](https://www.linkedin.com/in/koothodilabhijithaugustine/)
 - [Instagram](https://www.instagram.com/xniper_zincaid/)
 
