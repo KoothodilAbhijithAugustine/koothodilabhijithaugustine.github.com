@@ -4,15 +4,107 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projects</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file if needed -->
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your shared CSS file -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        header img {
+            max-width: 100px;
+            border-radius: 50%;
+        }
+        header h1, header p {
+            margin: 0;
+        }
+        nav {
+            background-color: #f2f2f2;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 20px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: #333;
+        }
+        .page {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        .project-list {
+            margin-bottom: 20px;
+        }
+        .project-list p {
+            margin: 10px 0;
+            line-height: 1.6;
+            font-size: 1.1em;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
 </head>
 <body>
 
+<header>
+    <div>
+        <img src="assets/img/profile_pic/2024.jpg" alt="Profile Picture">
+    </div>
+    <div>
+        <h1>Koothodil Abhijith Augustine</h1>
+    </div>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="research.html">Research Projects</a>
+    <a href="cv.html">CV</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
 <div class="page" id="projects">
     <h1>Projects</h1>
-    <p><strong>1. Spectral Analysis of Swift-BAT Pulsars</strong></p>
-    <p><strong>2. Minimum Detectable Polarization (MDP) of GRBs using MEGAlib.</strong></p>
+    <div class="project-list">
+        <p><strong>1. Spectral Analysis of Swift-BAT Pulsars</strong></p>
+        <p><strong>2. Minimum Detectable Polarization (MDP) of GRBs using MEGAlib.</strong></p>
+    </div>
 </div>
+
+<footer>
+    <p>&copy; 2024 Koothodil Abhijith Augustine. All rights reserved.</p>
+</footer>
 
 </body>
 </html>
