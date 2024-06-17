@@ -1,18 +1,26 @@
----
-layout: page
-title: About
-permalink: /about/
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file if needed -->
+</head>
+<body>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div class="page" id="about">
+    <h1>About</h1>
+    <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">jekyllrb.com</a>.</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+    <p>You can find the source code for Minima at GitHub:
+    <a href="https://github.com/jekyll/minima" target="_blank" rel="noopener noreferrer">minima</a>.</p>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+    <p>You can find the source code for Jekyll at GitHub:
+    <a href="https://github.com/jekyll/jekyll" target="_blank" rel="noopener noreferrer">jekyll</a>.</p>
 
+    <p><a href="https://github.com/jekyll" target="_blank" rel="noopener noreferrer">jekyll organization</a>.</p>
+</div>
 
-[jekyll-organization]: https://github.com/jekyll
+</body>
+</html>
+
