@@ -1,14 +1,30 @@
----
-layout: default
-title: Home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file if needed -->
+    <style>
+        /* Example CSS for profile image */
+        .profile-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 50%; /* Makes the image round */
+            display: block;
+            margin: 0 auto; /* Centers the image */
+        }
+    </style>
+</head>
+<body>
 
-![Profile Image](/assets/img/profile_pic/2024.jpg){: .profile-image}
+<div class="page" id="home">
+    <h1>Welcome to my personal website.</h1>
+    <img src="/assets/img/profile_pic/2024.jpg" alt="Profile Image" class="profile-image">
+    <p>I am doing a PhD in Astronomy from National Tsing Hua University (NTHU), Hsinchu, Taiwan.<br>
+    My advisor is Prof. Hsiang-Kuang Chang. I am doing a long term study of The Crab using Swift-BAT.<br>
+    I am also working on the simulation of minimum detectable polarization, of custom made CubeSats models by our group, using MEGAlib.</p>
+</div>
 
-Welcome to my (**Koothodil Abhijith Augustine's**) personal website.
-
-
-<p>I am doing a PhD in Astronomy from National Tsing Hua University (NTHU), Hsinchu, Taiwan.<br>
-My advisor is Prof. Hsiang-Kuang Chang. I am doing a long term study of The Crab using Swift-BAT.<br>
-I am also working on the simulation of minimum detectable polarization, of custom made CubeSats models by our group, using MEGAlib.<p>
-
+</body>
+</html>
