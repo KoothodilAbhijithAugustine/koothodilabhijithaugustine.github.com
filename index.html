@@ -3,28 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file if needed -->
-    <style>
-        /* Example CSS for profile image */
-        .profile-image {
-            max-width: 10%;
-            height: auto;
-            border-radius: 5%; /* Makes the image round */
-            display: block;
-            margin: 0 auto; /* Centers the image */
-        }
-    </style>
+    <title>Koothodi Labhijith Augustine</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-
-<div class="page" id="home">
-    <h1>Welcome to my personal website.</h1>
-    <img src="/assets/img/profile_pic/2024.jpg" alt="Profile Image" class="profile-image">
-    <p>I am doing a PhD in Astronomy from National Tsing Hua University (NTHU), Hsinchu, Taiwan.<br>
+    <header>
+        <h1>Welcome to My Personal Website</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="projects.html">Research Projects</a></li>
+                <li><a href="cv.html">CV</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <button id="theme-toggle">Switch to Light Theme</button>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>I am doing a PhD in Astronomy from National Tsing Hua University (NTHU), Hsinchu, Taiwan.<br>
     My advisor is Prof. Hsiang-Kuang Chang. I am doing a long term study of The Crab using Swift-BAT.<br>
     I am also working on the simulation of minimum detectable polarization, of custom made CubeSats models by our group, using MEGAlib.</p>
-</div>
-
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Koothodi Labhijith Augustine</p>
+    </footer>
+    <script src="js/scripts.js"></script>
 </body>
 </html>
