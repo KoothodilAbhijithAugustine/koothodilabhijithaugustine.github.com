@@ -3,33 +3,85 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Koothodi Labhijith Augustine</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <title>Your Name - Astronomy Research</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        header img {
+            max-width: 100px;
+            border-radius: 50%;
+        }
+        header h1, header p {
+            margin: 0;
+        }
+        nav {
+            background-color: #f2f2f2;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 20px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to My Personal Website</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="projects.html">Research Projects</a></li>
-                <li><a href="cv.html">CV</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
-        </nav>
-        <button id="theme-toggle">Switch to Light Theme</button>
+        <div>
+            <img src="assets/img/2024.jpg" alt="Profile Picture">
+        </div>
+        <div>
+            <h1>Koothodil Abhijith Augustine</h1>
+            <p>Home</p>
+        </div>
     </header>
-    <main>
-        <section>
-            <h2>About Me</h2>
-            <p>I am doing a PhD in Astronomy from National Tsing Hua University (NTHU), Hsinchu, Taiwan.<br>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="research.html">Research Projects</a>
+        <a href="cv.html">CV</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>I am doing a PhD in Astronomy from National Tsing Hua University (NTHU), Hsinchu, Taiwan.<br>
     My advisor is Prof. Hsiang-Kuang Chang. I am doing a long term study of The Crab using Swift-BAT.<br>
     I am also working on the simulation of minimum detectable polarization, of custom made CubeSats models by our group, using MEGAlib.</p>
-        </section>
-    </main>
+        <p></p>
+    </div>
     <footer>
-        <p>&copy; 2024 Koothodi Labhijith Augustine</p>
+        <p>&copy; 2024 Koothodil Abhijith Augustine. All rights reserved.</p>
     </footer>
-    <script src="js/scripts.js"></script>
 </body>
 </html>
